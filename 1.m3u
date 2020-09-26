@@ -1,10 +1,82 @@
 #EXTM3U
-#EXTINF:-1 group-title="Entertainment",BBC ONE HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
-#EXTINF:-1 group-title="Entertainment",BBC TWO HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
-#EXTINF:-1 group-title="Entertainment",CBBC HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-#EXTINF:-1 group-title="Entertainment",CBEEBIES HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GOLF CHANNEL
+http://randomserver.site:2086/riyad/riyad/95412?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GOLF CHANNEL
+http://randomserver.site:2086/riyad/riyad/390?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GOLF CHANNEL FHD 1080
+http://randomserver.site:2086/riyad/riyad/64105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Golf Channel HD
+http://ingrid.ltd:25461/frank1/frank/41551?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Golf Channel HD VIP US
+http://mytv.fun:8080/uyvun248j/hhu9bltg0p/6340?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Golf_HD
+http://mhiptv.com:8888/22558899/22558899/4944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Golf_HD
+http://mhiptv.com:8888/noval/123456/4944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Golf_HD
+http://mhiptv.com:8888/ka5/ka5/4944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf FHD US
+http://mytv.fun:8080/uyvun248j/hhu9bltg0p/13753?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf US
+http://mytv.fun:8080/uyvun248j/hhu9bltg0p/14410?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf HD US
+http://mytv.fun:8080/uyvun248j/hhu9bltg0p/4953?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+http://randomserver.site:2086/riyad/riyad/95389?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+http://randomserver.site:2086/riyad/riyad/13604?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN FHD 1080
+http://randomserver.site:2086/riyad/riyad/64127?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD
+http://ingrid.ltd:25461/frank1/frank/7508?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD (backup)
+http://ingrid.ltd:25461/frank1/frank/42444?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD US
+http://mytv.fun:8080/uyvun248j/hhu9bltg0p/14363?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Undefined",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS HD Burlington VT
+http://ingrid.ltd:25461/frank1/frank/12561?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX (WFFF) Burlington Vermont
+http://randomserver.site:2086/riyad/riyad/96802?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX 44 (WFFF-TV) Burlington
+http://ingrid.ltd:25461/frank1/frank/85870?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX Burlington VT
+http://ingrid.ltd:25461/frank1/frank/22839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL BALTIMORE RAVENS
+http://randomserver.site:2086/riyad/riyad/55086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL BUFFALO BILLS
+http://randomserver.site:2086/riyad/riyad/55090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL CAROLINA PANTHERS
+http://randomserver.site:2086/riyad/riyad/365?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL CHICAGO BEARS
+http://randomserver.site:2086/riyad/riyad/359?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL CINCINNATI BENGALS
+http://randomserver.site:2086/riyad/riyad/55089?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL CLEVELAND BROWNS
+http://randomserver.site:2086/riyad/riyad/55078?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL GREEN BAY PACKERS
+http://randomserver.site:2086/riyad/riyad/360?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL HD US
+http://mytv.fun:8080/uyvun248j/hhu9bltg0p/4917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL NETWORK FHD 1080
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64168?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL SAN FRANCISCO 49ERS
+http://randomserver.site:2086/riyad/riyad/364?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL TAMPA BAY BUCCANEERS
+http://randomserver.site:2086/riyad/riyad/356?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL WASHINGTON FOOTBALL TEAM
+http://randomserver.site:2086/riyad/riyad/362?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
+http://randomserver.site:2086/riyad/riyad/67059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122619?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122685?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf FHD
+http://ingrid.ltd:25461/frank1/frank/25171?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf HD
+http://ingrid.ltd:25461/frank1/frank/25174?checkedby:iptvcat.com
+
 
